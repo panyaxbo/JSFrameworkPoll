@@ -2,3 +2,4 @@
 .info
 db.js
 .gitignore
+package-lock.json
